@@ -70,10 +70,11 @@ jupyter lab
 5. **Evaluation** – Performance vergleichen und optimieren
 6. **MLflow Tracking** – Experimente dokumentieren
 
-## 👤 Autor
+## 👤 Team
 
 **Ben Langenkamp**  
-DHBW Mannheim – Data Science Seminar
+
+**Adam Madhour**
 
 ## 📄 Lizenz
 
